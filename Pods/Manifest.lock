@@ -1,0 +1,18 @@
+PODS:
+  - RandomKit (5.2.2):
+    - ShiftOperations (~> 1.0.2)
+    - Threadly (~> 1.0)
+  - ShiftOperations (1.0.2)
+  - Threadly (1.2.0)
+
+DEPENDENCIES:
+  - RandomKit (~> 5.2.2)
+
+SPEC CHECKSUMS:
+  RandomKit: 40ca2e2a121c24170799c28f6a8cb5da80be7ec6
+  ShiftOperations: 702c9aa98d3b20d98dceb71dd8437b562f7ab3ad
+  Threadly: b772ed7c1ff4a3f03eb4600bbc5ef83b3be5cb29
+
+PODFILE CHECKSUM: 4c8e3b93012d0c05b307a4b6d0b19a409272dd9a
+
+COCOAPODS: 1.0.1

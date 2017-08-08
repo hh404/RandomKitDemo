@@ -1,0 +1,6 @@
+framework module Pods_RandomKitDemo {
+  umbrella header "Pods-RandomKitDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
